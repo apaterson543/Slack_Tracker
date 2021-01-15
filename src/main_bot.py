@@ -163,5 +163,7 @@ def main():
     # check_weekly_reset()
     send_chat_message(client,'#random',str(stored_data))
     print(str(stored_data))
+
+
 if __name__ == "__main__":
     main()
